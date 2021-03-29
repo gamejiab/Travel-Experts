@@ -1,2 +1,9 @@
 # Travel-Experts
-Apply Nodjs, Express, Moongose to dynamically render web page 
+Apply Nodjs, Express, Moongose to dynamically render web page. 
+e.env file is hidden, but you can check teh web page at  gmejia.azurewebsites.net
+
+## Functionalities:
+User/Login functionalities using passport with administrative rights for travel package creation. 
+Mongo DB .
+
+Bootstraps templeates. 
